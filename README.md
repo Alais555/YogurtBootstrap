@@ -1,10 +1,10 @@
 # YogurtBootstrap
 
-Bootstrap 4 Yogurt Website
+Bootstrap 4.5.3v Yogurt Website
 
 ## Usage 
 
-This website is for web design. This website is made by Bootstrap 4.5.3v and is mobile responsive. It's purpose for the user is to just be for show such as layout for future websites for my employers or anyone.
+Website for the user is to look at for layout and web design. The Yogurt is fake and website is not functional for user as it should be. Will probably make it more functional in the future.
 
 ## Languages 
 
@@ -12,6 +12,5 @@ This website is for web design. This website is made by Bootstrap 4.5.3v and is 
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />.
 
-## Link
+## Link 
 
- https://alais555.github.io/YogurtBootstrap/
